@@ -48,7 +48,7 @@ My work bridges **software engineering**, **AI integration**, and **IoT-driven a
 
 ### ✍️ Random Dev Quote  
 
-> “Geleceği tahmin etmenin en iyi yolu, onu icat etmektir.” — *Alan Kay*
+> “The best way to predict the future is to invent it.” — *Alan Kay*
 
 ---
 
