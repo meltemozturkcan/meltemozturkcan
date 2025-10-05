@@ -2,7 +2,7 @@
 <h1 align="center">🌍 Hello World, I'm <strong>Meltem Öztürkcan</strong> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Fullstack+.NET+%26+AI+Developer;Technical+Analyst+%7C+Research+Assistant;Innovating+at+the+intersection+of+AI+and+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Fullstack+.NET+%26+AI+Developer;Technical+Analyst+%7C+Research+Assistant;Lifelong+Learner+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
